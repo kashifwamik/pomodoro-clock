@@ -81,7 +81,7 @@ function App() {
 
   return (
     <center>
-      <h1 style={{ fontSize: "4rem" }}>Pomodoro Clock</h1>
+      <h1 style={{ fontSize: "2.7rem" }}>Pomodoro Clock</h1>
       <Controls
         breakLength={breakLength}
         sessionLength={sessionLength}
